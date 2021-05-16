@@ -1,0 +1,7 @@
+set_io clk 60
+
+set_io sda 3 
+set_io scl_pin 4 
+set_io --warn-no-port uart_rx  8
+set_io --warn-no-port uart_tx  7
+
